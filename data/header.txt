@@ -1,0 +1,3 @@
+0: jdbc:hive2://bdgtmaster02i1d.nam.nsroot.ne> use gfctocon_work;
+0: jdbc:hive2://bdgtmaster02i1d.nam.nsroot.ne> select * from tcparticipants;
+tcparticipants.message_id	tcparticipants.participant_id	tcparticipants.participant_address	tcparticipants.participant_username	tcparticipants.int_ext	tcparticipants.part_type

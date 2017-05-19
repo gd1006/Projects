@@ -1,0 +1,66 @@
+Checked incoming references for the numbered articles, and included most relevant papers in the list
+
+Next step: 
+a. Check remaining papers
+b. Check references and citations within
+c. Write brief summaries for all papers
+
+
+1. 
+Nature 2012
+Future impact: Predicting scientific success
+Daniel E. Acuna,	Stefano Allesina	& Konrad P. Kording
+http://www.nature.com/nature/journal/v489/n7415/full/489201a.html
+
+2. PNAS 2007
+Does the h index have predictive power?
+J. E. Hirsch
+http://www.pnas.org/content/104/49/19193.short
+
+3. Science 2013
+Quantifying Long-Term Scientific Impact
+Dashun Wang, Chaoming Song, Albert-László Barabási
+
+4. Scientistic Reports 2013
+On the Predictability of Future Impact in Science
+Orion Penner, Raj K. Pan, Alexander M. Petersen, Kimmo Kaski & Santo Fortunato
+doi:10.1038/srep03052
+
+5. Machine Learning 2015
+Will This Paper Increase Your h-index?
+Yuxiao Dong, Reid A. Johnson, Nitesh V. Chawla
+http://link.springer.com/chapter/10.1007/978-3-319-23461-8_26
+
+6. CIKM 2011
+Citation Count Prediction: Learning to Estimate Future Citations for Literature
+http://dl.acm.org/citation.cfm?id=2063757
+
+7. PLOS One 2013
+Profit (p)-Index: The Degree to Which Authors Profit from Co-Authors
+10.1371/journal.pone.0059814
+
+8. JASIST 2008
+Are there better indices for evaluation purposes than the h index? A comparison of nine different variants of the h index using data from biomedicine
+http://onlinelibrary.wiley.com/doi/10.1002/asi.20806/full
+
+The Matthew effect in empirical data
+http://rsif.royalsocietypublishing.org/content/11/98/20140378.short
+
+Reputation and impact in academic careers
+http://www.pnas.org/content/111/43/15316.short
+
+Modeling and Predicting Popularity Dynamics via Reinforced Poisson Processes
+http://arxiv.org/abs/1401.0778
+
+Collective credit allocation in science
+http://www.pnas.org/content/111/34/12325.short
+
+Author Impact Factor: tracking the dynamics of individual scientific impact
+http://www.nature.com/articles/srep04880
+
+Universality of citation distributions: Toward an objective measure of scientific impact
+http://www.pnas.org/content/105/45/17268.short
+
+High Impact Academic Paper Prediction Using Temporal and Topological Features
+CIKM 2014
+http://dl.acm.org/citation.cfm?id=2662066
